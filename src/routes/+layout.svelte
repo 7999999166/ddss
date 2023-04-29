@@ -1,9 +1,11 @@
 <script>
+import { base } from '$app/paths';
+
 	
 </script>
 <svelte:head>
-       <link rel="stylesheet" href="bootstrap.min.css"> 
-       <link rel="stylesheet" href="w3.css">
+       <link rel="stylesheet" href="{base}/bootstrap.min.css"> 
+       <link rel="stylesheet" href="{base}/w3.css">
      </svelte:head>
 
 <div class="app">
