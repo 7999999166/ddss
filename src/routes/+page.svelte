@@ -6,7 +6,8 @@
 
 
 <div>
-   <a href="/products">click me</a>
+   <a href="/products">product</a>
+   <a href="/about">about</a>
 </div>
 
 <style>
